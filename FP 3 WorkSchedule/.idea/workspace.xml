@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bafb46d-0370-4031-8059-c77585819e45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k9ctRphtSwHcdB7O3EZExsIHdo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Engenharia Informatica/2ºAno/1ºSemestre/ESII/Projetos/TriangleTests/BlackBoxTests" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="JUnit.BVA4.BVA4_4">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BVA4.BVA4_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FP_3_ESII.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WorkSchedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WorkSchedule" />
+      <option name="MAIN_CLASS_NAME" value="WorkSchedule.BVA4" />
+      <option name="METHOD_NAME" value="BVA4_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BVA4.BVA4_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FP_3_ESII.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WorkSchedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WorkSchedule" />
+      <option name="MAIN_CLASS_NAME" value="WorkSchedule.BVA4" />
+      <option name="METHOD_NAME" value="BVA4_2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BVA4.BVA4_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FP_3_ESII.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WorkSchedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WorkSchedule" />
+      <option name="MAIN_CLASS_NAME" value="WorkSchedule.BVA4" />
+      <option name="METHOD_NAME" value="BVA4_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BVA4.BVA4_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FP_3_ESII.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WorkSchedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WorkSchedule" />
+      <option name="MAIN_CLASS_NAME" value="WorkSchedule.BVA4" />
+      <option name="METHOD_NAME" value="BVA4_4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ECP4.ECP4_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FP_3_ESII.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WorkSchedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WorkSchedule" />
+      <option name="MAIN_CLASS_NAME" value="WorkSchedule.ECP4" />
+      <option name="METHOD_NAME" value="ECP4_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BVA4.BVA4_4" />
+        <item itemvalue="JUnit.BVA4.BVA4_3" />
+        <item itemvalue="JUnit.BVA4.BVA4_2" />
+        <item itemvalue="JUnit.BVA4.BVA4_1" />
+        <item itemvalue="JUnit.ECP4.ECP4_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bafb46d-0370-4031-8059-c77585819e45" name="Default Changelist" comment="" />
+      <created>1605116464014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605116464014</updated>
+      <workItem from="1605116466636" duration="2892000" />
+      <workItem from="1605176866724" duration="1655000" />
+      <workItem from="1605178987132" duration="1649000" />
+      <workItem from="1605211048527" duration="277000" />
+      <workItem from="1605384817010" duration="186000" />
+      <workItem from="1605395771553" duration="18000" />
+      <workItem from="1605440783531" duration="13343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1605446023948">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1605446023948" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605445355552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605445355552" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1605463756710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605463756710" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1605463756710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605463756710" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1605463756710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605463756710" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1605463756710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605463756710" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1605463756710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605463756710" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1605463756710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605463756710" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1605463756710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605463756710" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1605463756710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605463756710" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1605445479502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605445479502" />
+    <state x="0" y="0" width="585" height="728" key="find.popup" timestamp="1605452126671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1605452126671" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605449333967">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605449333967" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WorkSchedule/App.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/WorkSchedule/ECP1.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/WorkSchedule/BVA1.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/WorkSchedule/ECP2.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/WorkSchedule/BVA2.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/WorkSchedule/BVA2.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

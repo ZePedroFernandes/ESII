@@ -39,7 +39,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = 'FP_3_BLACK_BOX_TESTS.dd'
+    mainClassName = 'FP.ESII.App'
 }
 
 test {
