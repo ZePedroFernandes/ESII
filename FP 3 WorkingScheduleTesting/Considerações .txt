@@ -1,0 +1,2 @@
+setReqNumber 	quando o endtime é menor que 0 o programa funciona da forma desejada, 
+		quando o starttime é menor que 0 já não funciona como previsto
